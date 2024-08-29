@@ -14,7 +14,7 @@ Meu e-mail: liomar.antonio@hotmail.com
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://media.istockphoto.com/id/1470350238/pt/vetorial/software-developer-working-with-computers.jpg" />
+      <img width="400" src="https://media.istockphoto.com/id/1470350238/pt/vetorial/software-developer-working-with-computers.jpg?s=2048x2048&w=is&k=20&c=kv0_5b-ty_9Lwr1k07yV3W4lPADQwYIFmYix0Shp7S8=" />
     </td>
     <td style="border: 0";>
       <p>
