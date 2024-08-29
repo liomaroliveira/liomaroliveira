@@ -14,7 +14,7 @@ Meu e-mail: liomar.antonio@hotmail.com
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="[https://i.imgur.com/bXxIgrd.png](https://e7.pngegg.com/pngimages/501/438/png-clipart-man-using-laptop-illustration-web-development-web-developer-web-design-web-development-text-computer.png)" />
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png](https://e7.pngegg.com/pngimages/501/438/png-clipart-man-using-laptop-illustration-web-development-web-developer-web-design-web-development-text-computer.png" />
     </td>
     <td style="border: 0";>
       <p>
