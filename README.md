@@ -18,10 +18,10 @@ Meu e-mail: liomar.antonio@hotmail.com
     </td>
     <td style="border: 0";>
       <p>
-        💻 Atualização e edição de site da <a href="https://clinseb.com.br/">Clínica Clinseb<a/>.
+        🌐 Atualização e edição de site da <a href="https://clinseb.com.br/">Clínica Clinseb<a/>.
       </p>
       <p>
-        🌙 Atualmente trabalhando em um projeto em PHP/Laravel no Backend e Angular no Frontend, um sistema para uma empresa da região.
+        🖥️ Atualmente trabalhando em um projeto em PHP/Laravel no Backend e Angular no Frontend, um sistema para uma empresa da região.
       </p>
       <h3>Formas de me encontrar:</h3>
       <ul>
