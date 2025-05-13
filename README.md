@@ -2,12 +2,26 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/liomaroliveira)](https://www.linkedin.com/in/liomarbr/)
 
-Em busca de uma oportunidade como Desenvolvedor Backend Junior. Atualmente cursando Ciência da Computação e concluídos Técnico em Informática e Administração Pública.
-Estudando JavaScript/Typescript/Node/Angular, PHP/Laravel, HTML/CSS e Java/Spring Boot.
-Possuo experiência profissional e conhecimentos nas diversas áreas de TI há mais de 20 anos e venho acompanhando todo o processo de desenvolvimento das tecnologias, seja atuando profissionalmente ou estudando.
-Possuo experiência profissional com bancos de dados, sistemas diversos hospedados localmente ou em nuvem, diversos contatos com tecnologias frontend, backend e infraestrutura.
-Possuo conhecimentos em hardware, redes, sistemas operacionais e uma grande variedade de softwares. 
-Possuo conhecimento e experiência profissional como design gráfico.
+Olá a todos. Me chamo Liomar, sou um profissional com cerca de 23 anos em atuação na área de TI.
+Possuo muitos atributos que me favorecem para atuação na área de desenvolvimento de software. 
+
+Possuo experiência profissional em administração de bancos de dados de ERP de um grupo de mais de 20 empresas, onde realizava operações em produção para resolução de problemas e desenvolvia relatórios utilizando os dados dos bancos que administrava visando otimização de tarefas de setores como Financeiro, Direção RH, compras e outros.
+Além disso, destaco ter experiência com time de desenvolvimento onde foi desenvolvida uma solução BI em PHP com banco de dados PostgreSQL. 
+Por fim, possuo experiência em desenvolvimento web, sendo responsável pela criação e manutenção do site de uma clínica local (clinseb.com.br).
+Minha formação inclui curso técnico e superior na área de Computação, além de ser Bacharel em Administração Pública, o que complementa minha visão analítica e organizacional em projetos de tecnologia.
+
+Experiências adquiridas em áreas como: 
+* Redes de computadores intranet, extranet e internet, 
+* Servidores Linux e Windows
+* Servidores de ERPs em geral
+* Aplicações web
+* Máquinas virtuais e containers
+* Firewalls, VPNs e load balances
+* Suporte ao cliente remoto e presencial
+* Manutenção em hardwares diversos como computadores e notebooks
+* Configurações de BIOS para diversas finalidades
+* Gerenciamento de armazenamento em nuvem local e web
+* BI e planilhas, entre outros.
 
 Meu e-mail: liomar.antonio@hotmail.com
 
