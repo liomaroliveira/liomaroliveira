@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/liomaroliveira)](https://www.linkedin.com/in/liomarbr/)
 
-Olá a todos. Me chamo Liomar, sou um profissional com cerca de 23 anos em atuação na área de TI.
+Olá a todos. Me chamo Liomar, sou um profissional da área da TI desde os 13 anos de idade.
 Possuo muitos atributos que me favorecem para atuação na área de desenvolvimento de software. 
 
 Possuo experiência profissional em administração de bancos de dados de ERP de um grupo de mais de 20 empresas, onde realizava operações em produção para resolução de problemas e desenvolvia relatórios utilizando os dados dos bancos que administrava visando otimização de tarefas de setores como Financeiro, Direção RH, compras e outros.
