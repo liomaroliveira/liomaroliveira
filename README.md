@@ -1,15 +1,20 @@
 # Liomar Antonio de Oliveira
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liomarbr/)](https://www.linkedin.com/in/liomarbr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liomarbr/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574991965084)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liomar.antonio@hotmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://liomardev.vercel.app/)
 
-Engenheiro de Software, Analista de Sistemas e Especialista em Infraestrutura com mais de 20 anos de experiência no setor de TI. Atualmente, atuo como Supervisor de TI em provedor de serviços de internet (ISP) e estou no último ano de Ciência da Computação. Possuo formação prévia em Administração Pública, aliando capacidade técnica de arquitetura de sistemas com visão analítica e gestão de equipes.
+Engenheiro de Software, Analista de Sistemas e Especialista em Infraestrutura com mais de 20 anos de experiência no setor de TI. Atualmente, atuo como Supervisor de TI em provedor de serviços de internet (ISP), liderando equipe técnica na operação diária, e estou no último ano de Ciência da Computação. Possuo formação prévia em Administração Pública, aliando capacidade técnica de arquitetura de sistemas com visão analítica e gestão de infraestruturas complexas. 
+
+Detalhes aprofundados sobre minha trajetória e projetos interativos estão disponíveis no meu [Portfólio Técnico](https://liomardev.vercel.app/).
 
 ## 💻 Tecnologias e Especialidades
 
 *   **Desenvolvimento de Software:** PHP (Laravel), TypeScript e Rust.
 *   **Infraestrutura e Virtualização:** Proxmox VE, ZFS, VPS, Proxy, Cluster, automação de migrações.
 *   **Redes e Telecomunicações:** MikroTik (RouterOS), Grandstream, Ubiquiti, infraestrutura OLTs, SFP+.
-*   **Ambientes Desktop:** Linux (Arch-based, Debian-based, Fedora-based), Windows Server, Windows 11.
+*   **Sistemas Operacionais:** Linux (Arch-based, Debian-based, Fedora-based), Windows Server, Windows 11.
 *   **IA e Self-Hosting:** Implantação de soluções locais de Inteligência Artificial utilizando Ollama, LiteLLM, Langfuse, N8N e outros.
 
 ## 🚀 Projetos Recentes e Atuação
@@ -19,17 +24,17 @@ Engenheiro de Software, Analista de Sistemas e Especialista em Infraestrutura co
 *   **[Mundiale History](https://mundiale-history.teninternet.com.br):** Sistema full-stack (PHP/Laravel e Rust) para visualização de histórico de sistema de mensageria empresarial, com parsing poderoso de PDFs para criação de bancos de dados altamente performático (+260k PDFs).
 *   **WhatsApp Printer:** Aplicação completa (Node.js) para leitura de conversas exportadas do WhatsApp, com foco em transcrição de áudios usando IA local (CPU/GPU) ou cloud gratuita, exibição de anexos e exportação para PDF com 100% do conteúdo exportado visualmente.
 *   **Network Toolbox:** Feita em Rust + Tauri v2, ferramenta completa de análise de rede em contexto cliente x provedor, com futuros recursos de atendimento, análise automatizada de cenário de rede e gestão de relatórios para contexto comparativo, entre vários outros recursos. Conta com diversos utilitários, como cliente SSH.
-*   **[Gemini Tools](https://chromewebstore.google.com/detail/gemini-tools/lnbhhjloeifnldflncabgfpnikpnpkdg):** Minha 1ª Extensão publicada na Chrome Web Store, com foco em melhorar produtividade usando Gemini.
+*   **[Gemini Tools](https://chromewebstore.google.com/detail/gemini-tools/lnbhhjloeifnldflncabgfpnikpnpkdg):** Extensão publicada na Chrome Web Store, com foco em melhorar produtividade utilizando Gemini Web.
 
-... Entre outros projetos.
+---
 
-## 📬 Contato
-
-*   **E-mail:** [liomar.antonio@hotmail.com](mailto:liomar.antonio@hotmail.com)
-*   **WhatsApp:** [Iniciar conversa](https://api.whatsapp.com/send?phone=5574991965084)
-
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liomaroliveira&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liomaroliveira&hide=Html&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liomaroliveira&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liomaroliveira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=liomaroliveira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liomaroliveira&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liomaroliveira&hide=Html&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liomaroliveira&theme=nord_dark" width="32%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liomaroliveira&theme=nord_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liomaroliveira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" width="49%" />
+</div>
