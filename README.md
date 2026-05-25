@@ -1,57 +1,35 @@
-<h1> Liomar Antonio de Oliveira </h1>
+# Liomar Antonio de Oliveira
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/liomaroliveira)](https://www.linkedin.com/in/liomarbr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liomarbr/)](https://www.linkedin.com/in/liomarbr/)
 
-Olá a todos. Me chamo Liomar, sou um profissional da área da TI desde os 13 anos de idade.
-Possuo muitos atributos que me favorecem para atuação na área de desenvolvimento de software. 
+Engenheiro de Software, Analista de Sistemas e Especialista em Infraestrutura com mais de 20 anos de experiência no setor de TI. Atualmente, atuo como Supervisor de TI em provedor de serviços de internet (ISP) e estou no último ano de Ciência da Computação. Possuo formação prévia em Administração Pública, aliando capacidade técnica de arquitetura de sistemas com visão analítica e gestão de equipes.
 
-Possuo experiência profissional em administração de bancos de dados de ERP de um grupo de mais de 20 empresas, onde realizava operações em produção para resolução de problemas e desenvolvia relatórios utilizando os dados dos bancos que administrava visando otimização de tarefas de setores como Financeiro, Direção RH, compras e outros.
-Além disso, destaco ter experiência com time de desenvolvimento onde foi desenvolvida uma solução BI em PHP com banco de dados PostgreSQL. 
-Por fim, possuo experiência em desenvolvimento web, sendo responsável pela criação e manutenção do site de uma clínica local (clinseb.com.br).
-Minha formação inclui curso técnico e superior na área de Computação, além de ser Bacharel em Administração Pública, o que complementa minha visão analítica e organizacional em projetos de tecnologia.
+## 💻 Tecnologias e Especialidades
 
-Experiências adquiridas em áreas como: 
-* Redes de computadores intranet, extranet e internet, 
-* Servidores Linux e Windows
-* Servidores de ERPs em geral
-* Aplicações web
-* Máquinas virtuais e containers
-* Firewalls, VPNs e load balances
-* Suporte ao cliente remoto e presencial
-* Manutenção em hardwares diversos como computadores e notebooks
-* Configurações de BIOS para diversas finalidades
-* Gerenciamento de armazenamento em nuvem local e web
-* BI e planilhas, entre outros.
+*   **Desenvolvimento de Software:** PHP (Laravel), TypeScript e Rust.
+*   **Infraestrutura e Virtualização:** Proxmox VE, ZFS, VPS, Proxy, Cluster, automação de migrações.
+*   **Redes e Telecomunicações:** MikroTik (RouterOS), Grandstream, Ubiquiti, infraestrutura OLTs, SFP+.
+*   **Ambientes Desktop:** Linux (Arch-based, Debian-based, Fedora-based), Windows Server, Windows 11.
+*   **IA e Self-Hosting:** Implantação de soluções locais de Inteligência Artificial utilizando Ollama, LiteLLM, Langfuse, N8N e outros.
 
-Meu e-mail: liomar.antonio@hotmail.com
+## 🚀 Projetos Recentes e Atuação
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://media.istockphoto.com/id/1470350238/pt/vetorial/software-developer-working-with-computers.jpg?s=2048x2048&w=is&k=20&c=kv0_5b-ty_9Lwr1k07yV3W4lPADQwYIFmYix0Shp7S8=" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        🌐 Atualização e edição de site da <a href="https://clinseb.com.br/">Clínica Clinseb<a/>.
-      </p>
-      <p>
-        🖥️ Atualmente trabalhando em um projeto em PHP/Laravel no Backend e Angular no Frontend, um sistema para uma empresa da região.
-      </p>
-      <h3>Formas de me encontrar:</h3>
-      <ul>
-        <li>
-          📬 <a href=mailto:liomar.antonio@hotmail.com>Contate-me por e-mail</a>
-        </li>
-        <li>
-          📬 <a href=https://api.whatsapp.com/send?phone=5574991965084&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20GitHub.%20>Contate-me por WhatsApp</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   **[DocPrise](https://docs.teninternet.com.br):** Desenvolvimento de um fork customizado do sistema Outline Wiki, integrando RAG nativo com banco de dados vetorial para criação de personas com contexto local e interface de chat com documentos processados, com foco em LLMs locais e fallbacks para outras de baixo custo.
+*   **[AutoTickets](https://autotickets.teninternet.com.br):** Desenvolvimento full-stack (PHP/Laravel e React) de um sistema para gestão e roteamento de solicitações de serviços empresariais, com integrações, dashboards e automações.
+*   **[Mundiale History](https://mundiale-history.teninternet.com.br):** Sistema full-stack (PHP/Laravel e Rust) para visualização de histórico de sistema de mensageria empresarial, com parsing poderoso de PDFs para criação de bancos de dados altamente performático (+260k PDFs).
+*   **WhatsApp Printer:** Aplicação completa (Node.js) para leitura de conversas exportadas do WhatsApp, com foco em transcrição de áudios usando IA local (CPU/GPU) ou cloud gratuita, exibição de anexos e exportação para PDF com 100% do conteúdo exportado visualmente.
+*   **Network Toolbox:** Feita em Rust + Tauri v2, ferramenta completa de análise de rede em contexto cliente x provedor, com futuros recursos de atendimento, análise automatizada de cenário de rede e gestão de relatórios para contexto comparativo, entre vários outros recursos. Conta com diversos utilitários, como cliente SSH.
+*   **[Gemini Tools](https://chromewebstore.google.com/detail/gemini-tools/lnbhhjloeifnldflncabgfpnikpnpkdg):** Minha 1ª Extensão publicada na Chrome Web Store, com foco em melhorar produtividade usando Gemini.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liomaroliveira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liomaroliveira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liomaroliveira&theme=nord_dark) |
+... Entre outros projetos.
+
+## 📬 Contato
+
+*   **E-mail:** [liomar.antonio@hotmail.com](mailto:liomar.antonio@hotmail.com)
+*   **WhatsApp:** [Iniciar conversa](https://api.whatsapp.com/send?phone=5574991965084)
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liomaroliveira&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liomaroliveira&hide=Html&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liomaroliveira&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liomaroliveira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=liomaroliveira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liomaroliveira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=liomaroliveira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
